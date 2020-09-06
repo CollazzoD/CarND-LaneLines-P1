@@ -12,7 +12,7 @@ The goals / steps of this project are the following:
 
 ### 1. draw_lines() function modifications
 
-First of all, I followed [these suggenstion](https://knowledge.udacity.com/questions/18578) but I wasn't satisfied with
+First of all, I followed [these suggestion](https://knowledge.udacity.com/questions/18578) but I wasn't satisfied with
 the result. So, I took a different approach by taking the mean of the slopes and coefficient of all the line found.
 In order to filter some noise, I took only the slopes that where in a range of values. After that, I calculated two points and used them to draw the line.
 
